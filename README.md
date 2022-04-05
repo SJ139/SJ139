@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SJ139
+- 👋 Hi, I’m Steve Johnston @SJ139
 - 👀 I’m interested technology and guitars.
-- 🌱 I’m currently learning Java :-)
-- 💞️ I’m looking to collaborate on learning Java
+- 🌱 I’m currently learning Web Dev :-)
+- 💞️ I’m looking to collaborate on anything Web Dev...html, CSS< javascript, Tailwind
 - 📫 How to reach me ...
 
 <!---
